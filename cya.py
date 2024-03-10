@@ -88,10 +88,10 @@ with open("cya_openai_game-token.json") as f:
 cloud_config= {'secure_connect_bundle': 'secure-connect-cya-openai-game.zip'}
 CLIENT_ID = secrets["clientId"]
 CLIENT_SECRET = secrets["secret"]
-ASTRA_DB_KEYSPACE = "cyadatabase"
-OPENAI_API_KEY = "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"
+ASTRA_DB_KEYSPACE = "insert database"
+OPENAI_API_KEY = "insert api key"
 
-# "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"
+
 # auth_provider = PlainTextAuthProvider(CLIENT_ID, CLIENT_SECRET)
 # cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
 # session = cluster.connect()
