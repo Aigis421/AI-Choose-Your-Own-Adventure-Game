@@ -1,0 +1,12 @@
+transformers==4.46.0
+accelerate==1.1.0
+huggingface_hub==0.26.1
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+torch
+scikit-learn
+scipy
+numpy
+sentence_transformers
